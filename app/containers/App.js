@@ -1,4 +1,5 @@
 import React, { Component, PropTypes } from 'react';
+import './App.global.scss';
 
 export default class App extends Component {
   static propTypes = {
