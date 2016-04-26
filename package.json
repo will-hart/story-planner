@@ -1,7 +1,7 @@
 {
   "name": "story-planner",
   "productName": "Story Planner",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A react/electron application for planning story plots",
   "main": "main.js",
   "scripts": {
